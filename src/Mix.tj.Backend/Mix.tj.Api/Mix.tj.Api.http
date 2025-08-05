@@ -1,0 +1,6 @@
+@Mix.tj.Api_HostAddress = http://localhost:5098
+
+GET {{Mix.tj.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
